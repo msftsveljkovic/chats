@@ -1,4 +1,4 @@
-= Chat SF Application and Client
+# Chat SF Application and Client
 
 The Chat subdir contains the Chat Service Fabric
 application. See its README for more information.

@@ -1,4 +1,4 @@
-= Chat API SF App demo
+# Chat API SF App demo
 
 Chat app API demo consists of several services:
 

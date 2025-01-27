@@ -1,4 +1,4 @@
-= Chat API Client app
+# Chat API Client app
 
 This is a simple native Chat app written in DrImGui. While it is "Windows only",
 it's core is easily ported to another platform, as it uses only C++

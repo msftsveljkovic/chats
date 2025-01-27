@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Q:\\source\\Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|q:\\source\\chat\\api\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|solutionrelative:api\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|q:\\source\\chat\\api\\custommetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|solutionrelative:api\\custommetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|q:\\source\\chat\\api\\meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|solutionrelative:api\\meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|q:\\source\\chat\\api\\controllers\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|solutionrelative:api\\controllers\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB4746-5FB6-4531-852B-D52BC79B7B72}|User\\User.csproj|q:\\source\\chat\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DB4746-5FB6-4531-852B-D52BC79B7B72}|User\\User.csproj|solutionrelative:user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D51864-30BA-417B-B7FB-EA8AFEB9A67C}|History\\History.csproj|q:\\source\\chat\\history\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D51864-30BA-417B-B7FB-EA8AFEB9A67C}|History\\History.csproj|solutionrelative:history\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71622565-8AFD-4C11-9157-4EBCFF621B4F}|Ide\\Ide.csproj|q:\\source\\chat\\ide\\ide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71622565-8AFD-4C11-9157-4EBCFF621B4F}|Ide\\Ide.csproj|solutionrelative:ide\\ide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B14E0EE-A314-4A57-90BD-FB6040425418}|Comm\\Comm.csproj|q:\\source\\chat\\comm\\partitioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B14E0EE-A314-4A57-90BD-FB6040425418}|Comm\\Comm.csproj|solutionrelative:comm\\partitioning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B14E0EE-A314-4A57-90BD-FB6040425418}|Comm\\Comm.csproj|q:\\source\\chat\\comm\\incoming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B14E0EE-A314-4A57-90BD-FB6040425418}|Comm\\Comm.csproj|solutionrelative:comm\\incoming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71622565-8AFD-4C11-9157-4EBCFF621B4F}|Ide\\Ide.csproj|q:\\source\\chat\\ide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71622565-8AFD-4C11-9157-4EBCFF621B4F}|Ide\\Ide.csproj|solutionrelative:ide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|q:\\source\\chat\\chat\\applicationpackageroot\\applicationmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|solutionrelative:chat\\applicationpackageroot\\applicationmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|q:\\source\\chat\\chat\\applicationparameters\\local.1node.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|solutionrelative:chat\\applicationparameters\\local.1node.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D51864-30BA-417B-B7FB-EA8AFEB9A67C}|History\\History.csproj|q:\\source\\chat\\history\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62D51864-30BA-417B-B7FB-EA8AFEB9A67C}|History\\History.csproj|solutionrelative:history\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|q:\\source\\chat\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|q:\\source\\chat\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|q:\\source\\chat\\api\\serviceeventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|solutionrelative:api\\serviceeventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|q:\\source\\chat\\api\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|solutionrelative:api\\packageroot\\servicemanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D51864-30BA-417B-B7FB-EA8AFEB9A67C}|History\\History.csproj|q:\\source\\chat\\history\\packageroot\\config\\settings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62D51864-30BA-417B-B7FB-EA8AFEB9A67C}|History\\History.csproj|solutionrelative:history\\packageroot\\config\\settings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|q:\\source\\chat\\chat\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|solutionrelative:chat\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|q:\\source\\chat\\chat\\startupservices.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|solutionrelative:chat\\startupservices.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|q:\\source\\chat\\chat\\startupserviceparameters\\local.5node.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|solutionrelative:chat\\startupserviceparameters\\local.5node.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|q:\\source\\chat\\chat\\startupserviceparameters\\cloud.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|solutionrelative:chat\\startupserviceparameters\\cloud.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|q:\\source\\chat\\chat\\scripts\\deploy-fabricapplication.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|solutionrelative:chat\\scripts\\deploy-fabricapplication.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|q:\\source\\chat\\chat\\applicationparameters\\cloud.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|solutionrelative:chat\\applicationparameters\\cloud.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|q:\\source\\chat\\chat\\publishprofiles\\cloud.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{341DBA4B-C4CF-4379-A45E-1D63DDA55536}|Chat\\Chat.sfproj|solutionrelative:chat\\publishprofiles\\cloud.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|q:\\source\\chat\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FABBFA74-A71A-4C4F-A6D6-97332E223125}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D51864-30BA-417B-B7FB-EA8AFEB9A67C}|History\\History.csproj|q:\\source\\chat\\history\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D51864-30BA-417B-B7FB-EA8AFEB9A67C}|History\\History.csproj|solutionrelative:history\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DB4746-5FB6-4531-852B-D52BC79B7B72}|User\\User.csproj|q:\\source\\chat\\user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DB4746-5FB6-4531-852B-D52BC79B7B72}|User\\User.csproj|solutionrelative:user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Meter.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\API\\Meter.cs",
+              "RelativeDocumentMoniker": "API\\Meter.cs",
+              "ToolTip": "Q:\\source\\Chat\\API\\Meter.cs",
+              "RelativeToolTip": "API\\Meter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:18:43.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\API\\Controllers\\Chat.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\Chat.cs",
+              "ToolTip": "Q:\\source\\Chat\\API\\Controllers\\Chat.cs",
+              "RelativeToolTip": "API\\Controllers\\Chat.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAtwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:38:33.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\User\\User.cs",
+              "RelativeDocumentMoniker": "User\\User.cs",
+              "ToolTip": "Q:\\source\\Chat\\User\\User.cs",
+              "RelativeToolTip": "User\\User.cs",
+              "ViewState": "AgIAAAoAAACgaWZmZiYqwCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:01:48.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "History.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\History\\History.cs",
+              "RelativeDocumentMoniker": "History\\History.cs",
+              "ToolTip": "Q:\\source\\Chat\\History\\History.cs",
+              "RelativeToolTip": "History\\History.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:43:00.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\API\\API.cs",
+              "RelativeDocumentMoniker": "API\\API.cs",
+              "ToolTip": "Q:\\source\\Chat\\API\\API.cs",
+              "RelativeToolTip": "API\\API.cs",
+              "ViewState": "AgIAAHgAAAAANTMzMzP3v3YAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:08:51.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ide.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\Ide\\Ide.cs",
+              "RelativeDocumentMoniker": "Ide\\Ide.cs",
+              "ToolTip": "Q:\\source\\Chat\\Ide\\Ide.cs",
+              "RelativeToolTip": "Ide\\Ide.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAswGwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:21:22.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Partitioning.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\Comm\\Partitioning.cs",
+              "RelativeDocumentMoniker": "Comm\\Partitioning.cs",
+              "ToolTip": "Q:\\source\\Chat\\Comm\\Partitioning.cs",
+              "RelativeToolTip": "Comm\\Partitioning.cs",
+              "ViewState": "AgIAAAIAAABwZmZmZuYswAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:41:43.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomMetric.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\API\\CustomMetric.cs",
+              "RelativeDocumentMoniker": "API\\CustomMetric.cs",
+              "ToolTip": "Q:\\source\\Chat\\API\\CustomMetric.cs",
+              "RelativeToolTip": "API\\CustomMetric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:14:52.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\Ide\\Program.cs",
+              "RelativeDocumentMoniker": "Ide\\Program.cs",
+              "ToolTip": "Q:\\source\\Chat\\Ide\\Program.cs",
+              "RelativeToolTip": "Ide\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:36:29.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Incoming.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\Comm\\Incoming.cs",
+              "RelativeDocumentMoniker": "Comm\\Incoming.cs",
+              "ToolTip": "Q:\\source\\Chat\\Comm\\Incoming.cs",
+              "RelativeToolTip": "Comm\\Incoming.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:27:47.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Local.1Node.xml",
+              "DocumentMoniker": "Q:\\source\\Chat\\Chat\\ApplicationParameters\\Local.1Node.xml",
+              "RelativeDocumentMoniker": "Chat\\ApplicationParameters\\Local.1Node.xml",
+              "ToolTip": "Q:\\source\\Chat\\Chat\\ApplicationParameters\\Local.1Node.xml",
+              "RelativeToolTip": "Chat\\ApplicationParameters\\Local.1Node.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-16T16:54:33.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationManifest.xml",
+              "DocumentMoniker": "Q:\\source\\Chat\\Chat\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "RelativeDocumentMoniker": "Chat\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "ToolTip": "Q:\\source\\Chat\\Chat\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "RelativeToolTip": "Chat\\ApplicationPackageRoot\\ApplicationManifest.xml",
+              "ViewState": "AgIAAAkAAABkMzMzM5MwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-13T14:43:33.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceManifest.xml",
+              "DocumentMoniker": "Q:\\source\\Chat\\History\\PackageRoot\\ServiceManifest.xml",
+              "RelativeDocumentMoniker": "History\\PackageRoot\\ServiceManifest.xml",
+              "ToolTip": "Q:\\source\\Chat\\History\\PackageRoot\\ServiceManifest.xml",
+              "RelativeToolTip": "History\\PackageRoot\\ServiceManifest.xml",
+              "ViewState": "AgIAABkAAACAmpmZmRkmwAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-16T17:01:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "Q:\\source\\Chat\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "Q:\\source\\Chat\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T17:16:18.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "Q:\\source\\Chat\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "Q:\\source\\Chat\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAB4MzMzM5MwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T17:16:28.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceEventSource.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\API\\ServiceEventSource.cs",
+              "RelativeDocumentMoniker": "API\\ServiceEventSource.cs",
+              "ToolTip": "Q:\\source\\Chat\\API\\ServiceEventSource.cs",
+              "RelativeToolTip": "API\\ServiceEventSource.cs",
+              "ViewState": "AgIAAJAAAACA+////383wJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:33:51.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Settings.xml",
+              "DocumentMoniker": "Q:\\source\\Chat\\History\\PackageRoot\\Config\\Settings.xml",
+              "RelativeDocumentMoniker": "History\\PackageRoot\\Config\\Settings.xml",
+              "ToolTip": "Q:\\source\\Chat\\History\\PackageRoot\\Config\\Settings.xml",
+              "RelativeToolTip": "History\\PackageRoot\\Config\\Settings.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-16T17:04:01.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceManifest.xml",
+              "DocumentMoniker": "Q:\\source\\Chat\\API\\PackageRoot\\ServiceManifest.xml",
+              "RelativeDocumentMoniker": "API\\PackageRoot\\ServiceManifest.xml",
+              "ToolTip": "Q:\\source\\Chat\\API\\PackageRoot\\ServiceManifest.xml",
+              "RelativeToolTip": "API\\PackageRoot\\ServiceManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-16T16:50:25.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "packages.config",
+              "DocumentMoniker": "Q:\\source\\Chat\\Chat\\packages.config",
+              "RelativeDocumentMoniker": "Chat\\packages.config",
+              "ToolTip": "Q:\\source\\Chat\\Chat\\packages.config",
+              "RelativeToolTip": "Chat\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-16T17:03:43.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cloud.xml",
+              "DocumentMoniker": "Q:\\source\\Chat\\Chat\\StartupServiceParameters\\Cloud.xml",
+              "RelativeDocumentMoniker": "Chat\\StartupServiceParameters\\Cloud.xml",
+              "ToolTip": "Q:\\source\\Chat\\Chat\\StartupServiceParameters\\Cloud.xml",
+              "RelativeToolTip": "Chat\\StartupServiceParameters\\Cloud.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-16T16:55:47.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Deploy-FabricApplication.ps1",
+              "DocumentMoniker": "Q:\\source\\Chat\\Chat\\Scripts\\Deploy-FabricApplication.ps1",
+              "RelativeDocumentMoniker": "Chat\\Scripts\\Deploy-FabricApplication.ps1",
+              "ToolTip": "Q:\\source\\Chat\\Chat\\Scripts\\Deploy-FabricApplication.ps1",
+              "RelativeToolTip": "Chat\\Scripts\\Deploy-FabricApplication.ps1",
+              "ViewState": "AgIAACQBAAAAGAAAAAABwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-16T16:55:04.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Local.5Node.xml",
+              "DocumentMoniker": "Q:\\source\\Chat\\Chat\\StartupServiceParameters\\Local.5Node.xml",
+              "RelativeDocumentMoniker": "Chat\\StartupServiceParameters\\Local.5Node.xml",
+              "ToolTip": "Q:\\source\\Chat\\Chat\\StartupServiceParameters\\Local.5Node.xml",
+              "RelativeToolTip": "Chat\\StartupServiceParameters\\Local.5Node.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-16T16:56:46.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cloud.xml",
+              "DocumentMoniker": "Q:\\source\\Chat\\Chat\\ApplicationParameters\\Cloud.xml",
+              "RelativeDocumentMoniker": "Chat\\ApplicationParameters\\Cloud.xml",
+              "ToolTip": "Q:\\source\\Chat\\Chat\\ApplicationParameters\\Cloud.xml",
+              "RelativeToolTip": "Chat\\ApplicationParameters\\Cloud.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-16T16:54:41.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StartupServices.xml",
+              "DocumentMoniker": "Q:\\source\\Chat\\Chat\\StartupServices.xml",
+              "RelativeDocumentMoniker": "Chat\\StartupServices.xml",
+              "ToolTip": "Q:\\source\\Chat\\Chat\\StartupServices.xml",
+              "RelativeToolTip": "Chat\\StartupServices.xml",
+              "ViewState": "AgIAABwAAAAAAQAAAAAhwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-16T16:48:40.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cloud.xml",
+              "DocumentMoniker": "Q:\\source\\Chat\\Chat\\PublishProfiles\\Cloud.xml",
+              "RelativeDocumentMoniker": "Chat\\PublishProfiles\\Cloud.xml",
+              "ToolTip": "Q:\\source\\Chat\\Chat\\PublishProfiles\\Cloud.xml",
+              "RelativeToolTip": "Chat\\PublishProfiles\\Cloud.xml",
+              "ViewState": "AgIAAAwAAAAwzczMzAwswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-16T16:54:46.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\User\\Program.cs",
+              "RelativeDocumentMoniker": "User\\Program.cs",
+              "ToolTip": "Q:\\source\\Chat\\User\\Program.cs",
+              "RelativeToolTip": "User\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:01:39.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "API.csproj",
+              "DocumentMoniker": "Q:\\source\\Chat\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "Q:\\source\\Chat\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T15:36:43.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Q:\\source\\Chat\\History\\Program.cs",
+              "RelativeDocumentMoniker": "History\\Program.cs",
+              "ToolTip": "Q:\\source\\Chat\\History\\Program.cs",
+              "RelativeToolTip": "History\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:42:53.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
